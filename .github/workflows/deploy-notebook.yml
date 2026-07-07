@@ -259,7 +259,7 @@ jobs:
               "description": "Ejecuta notebook Grants con parámetros",
               "notebook_task": {
                 "notebook_path": "/proyecto/5.Grants_Medallion",
-                "source": "WORKSPACE",
+                "source": "WORKSPACE"
               },
               "existing_cluster_id": "$CLUSTER_ID",
               "timeout_seconds": 3600,
