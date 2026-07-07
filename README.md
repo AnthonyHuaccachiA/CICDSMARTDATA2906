@@ -1,2 +1,2 @@
-# CICDSMARTDATA2906
-este repositorio consta de la clase de ci cd entre dos servicios de databricks del curso de ingenieria de datos.
+# CICDSMARTDATA1304
+proyecto relacionado a cicd en databricks con github actions
